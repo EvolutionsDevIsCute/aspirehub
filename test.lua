@@ -1,0 +1,1 @@
+createWindow("Hello from Lua!")
