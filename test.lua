@@ -1,5 +1,5 @@
 CreateAddonTab("Test Addon")
-AddLabel("Welcome to Test Addon!", 20, 20)
-AddButton("Click Me", 20, 60, 120, 40, function()
+AddLabel("Test Addon", "Welcome to Test Addon!", 20, 20)
+AddButton("Test Addon", "Click Me", 20, 60, 120, 40, function()
     print("Button clicked in Test Addon")
 end)
